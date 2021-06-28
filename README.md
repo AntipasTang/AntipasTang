@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I have a degree in IT with a specialism in Mobile Technology in Asia Pacific University. I have completed Android and iOS application projects throughout my university career, which involved Java, Swift and Firebase. Currently I am developing mobile applications with Flutter. Besides, I have experience organizing events and competitions with my team, with few notable events such as Startup Weekend Kuala Lumpur and TEDxAPUKL. I trade forex and stock when I have the time.
+
+
 <!--
 **AntipasTang/AntipasTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
