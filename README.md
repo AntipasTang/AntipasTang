@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/antipastang/)
-[Facebook](https://www.facebook.com/railin.antipastang/)
-[Instagram](https://www.instagram.com/antipastang/)
+- [LinkedIn](https://www.linkedin.com/in/antipastang/)
+- [Facebook](https://www.facebook.com/railin.antipastang/)
+- [Instagram](https://www.instagram.com/antipastang/)
 
 ### Languages and Tools:
 
