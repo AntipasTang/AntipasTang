@@ -1,19 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Antipas 👋 
 
-I have a degree in IT with a specialism in Mobile Technology in Asia Pacific University. I have completed Android and iOS application projects throughout my university career, which involved Java, Swift and Firebase. Currently I am developing mobile applications with Flutter. Besides, I have experience organizing events and competitions with my team, with few notable events such as Startup Weekend Kuala Lumpur and TEDxAPUKL. I trade forex and stock when I have the time.
+## I'm a ex-semipro chess player, ex-semipro eSport player, part-time forex trader, full-time programmer and a lifetime learner!!
 
+- 🌱 I’m currently learning Flutter and Blockchain programming 🤣
+- 🥅 2022 Goals: Learn more about blockchain programming
+- ⚡ Fun fact: Google up "Antipas", you'll learn something
 
-<!--
-**AntipasTang/AntipasTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/antipastang/)
+[Facebook](https://www.facebook.com/railin.antipastang/)
+[Instagram](https://www.instagram.com/antipastang/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+[<img align="left" alt="Android Studio" width="26px" src="https://image.pngaaa.com/287/5650287-middle.png" style="padding-right:10px;" />]
+
+<br />
+<br />
