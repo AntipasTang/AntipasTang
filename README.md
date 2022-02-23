@@ -8,6 +8,7 @@
 
 ### Connect with me:
 
+- [Gitlab](https://gitlab.com/AntipasTang)
 - [LinkedIn](https://www.linkedin.com/in/antipastang/)
 - [Facebook](https://www.facebook.com/railin.antipastang/)
 - [Instagram](https://www.instagram.com/antipastang/)
