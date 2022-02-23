@@ -14,7 +14,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="26px" src="https://image.pngaaa.com/287/5650287-middle.png" style="padding-right:10px;" />]
+- Android Studio
+- Flutter
+- Dart
+- Git
 
 <br />
 <br />
